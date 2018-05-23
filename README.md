@@ -19,6 +19,8 @@ git clone https://github.com/toArray/laravel_admin.git
     我把sql文件放在根目录了 
     laravel_admin.sql
 
+## 注意
+1. 首页layui-icon字体是我阿里在线的字体,如果有问题说明我已经更改过，你可更改成你自己的字体
 
 
 
