@@ -56,3 +56,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+### 简介
+    基于Laravel5.5 + layui2.0的后端管理系统基础框架，目前只包含了登录模块。其他模块如果有需要可自行添加。
+    
+### 运行环境
+1.    Laravel5.5.* 
+2.    Nginx 1.8+
+3.    PHP 7.0+
+4.    Mysql 5.7+
